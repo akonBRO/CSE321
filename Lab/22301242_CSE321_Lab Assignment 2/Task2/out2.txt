@@ -1,0 +1,50 @@
+student 6 started waiting for consultation
+a waiting student started getting consultation
+num of students now waiting: 0
+st giving consultation
+student 9 started waiting for consultation
+student 5 started waiting for consultation
+student 6 is getting consultation
+student 3 started waiting for consultation
+no chairs left. student 1 leaving...
+student 6 finished getting consultation and left
+num of served students: 1
+a waiting student started getting consultation
+num of students now waiting: 2
+st giving consultation
+student 9 is getting consultation
+student 8 started waiting for consultation
+no chairs left. student 0 leaving...
+no chairs left. student 7 leaving...
+no chairs left. student 4 leaving...
+no chairs left. student 2 leaving...
+student 9 finished getting consultation and left
+num of served students: 2
+a waiting student started getting consultation
+num of students now waiting: 2
+st giving consultation
+student 5 is getting consultation
+student 0 finished getting consultation and left
+num of served students: 3
+student 1 finished getting consultation and left
+num of served students: 4
+student 4 finished getting consultation and left
+num of served students: 5
+student 7 finished getting consultation and left
+num of served students: 6
+student 2 finished getting consultation and left
+num of served students: 7
+a waiting student started getting consultation
+num of students now waiting: 1
+student 5 finished getting consultation and left
+num of served students: 8
+st giving consultation
+student 3 is getting consultation
+student 3 finished getting consultation and left
+num of served students: 9
+a waiting student started getting consultation
+num of students now waiting: 0
+st giving consultation
+student 8 is getting consultation
+student 8 finished getting consultation and left
+num of served students: 10
